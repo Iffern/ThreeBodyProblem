@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590760489070.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2301412262",
+    "id" : "36F1D2F2",
+    "lastKnownWriteTime" : 1591635466,
+    "last_content_update" : 1591635466250,
+    "path" : "~/Rstudio/ThreeBodyProblem/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "50,67",
+        "scrollLine" : "34"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

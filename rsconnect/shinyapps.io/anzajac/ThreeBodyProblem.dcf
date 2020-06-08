@@ -1,0 +1,12 @@
+name: ThreeBodyProblem
+title: ThreeBodyProblem
+username:
+account: anzajac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2384546
+bundleId: 3242220
+url: https://anzajac.shinyapps.io/ThreeBodyProblem/
+when: 1591617413.68869
+asMultiple: FALSE
+asStatic: FALSE
